@@ -19,7 +19,7 @@ logging:
 cygnus:
   sadr:
     name: sadr
-    pingUrl: http://${cygnus.sadr.name}/ping/
+    pingUrl: http://${cygnus.sadr.name}/ping/4
 
 spring:
    rabbitmq:
